@@ -7,21 +7,21 @@
 <h3 align="center">🎮 Game Developer | Backend Developer</h3>
 
 <p align="center" style="font-size: 16px;">
-I create games and realtime systems using <b>C++</b>, <b>Python</b>, <b>Go</b>, and <b>C#</b><br/>
+I create games and realtime systems using <b>C++</b>, <b>C#</b>, <b>Go</b> and <b>Python</b><br/>
 with a focus on performance and architecture.
 </p>
 
 <hr/>
 
 <p align="center">
-🕹️ Indie & freelance projects<br/>
-🖥 Backend & fullstack projects<br/>
+🕹️ Game engine development<br/>
 🔧 Gameplay systems & prototyping<br/>
+🖥 Backend & fullstack projects<br/>
 🌍 Open to remote opportunities
 </p>
 
 <p align="center">
-<a href="https://nursultan.site/" target="_blank">Persontal website</a> •
+<a href="https://www.nursultan.online/" target="_blank">Persontal website</a> •
 <a href="mailto:nursultanmamatov@proton.me">Email</a>
 </p>
 
