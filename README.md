@@ -4,18 +4,20 @@
   <img src="guy.gif" align="center" />
 </div>
 
-<h3 align="center">🎮 Game Developer | Backend Developer</h3>
+<h3 align="center">🎮 C++ Engineer | Backend Engineer</h3>
 
 <p align="center" style="font-size: 16px;">
-I create games and realtime systems using <b>C++</b>, <b>C#</b>, <b>Go</b> and <b>Python</b><br/>
-with a focus on performance and architecture.
+I create real-time systems and applications using <b>C++</b>, <b>C#</b>, <b>Go</b> and <b>Python</b><br/>
+with a focus on architecture, performance and maintainability.
+<br/><br/>
+I take interest in complex problems and mathematics. With particular interest in Simulations and Graphics Programming.
 </p>
 
 <hr/>
 
 <p align="center">
 🕹️ Game engine development<br/>
-🔧 Gameplay systems & prototyping<br/>
+🔧 Networking heavy projects<br/>
 🖥 Backend & fullstack projects<br/>
 🌍 Open to remote opportunities
 </p>
